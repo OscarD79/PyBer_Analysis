@@ -17,7 +17,7 @@ In conclusion the rural routes offered the highest average profits per ride and 
 Based on the findings of the Analysis, I have three potential recommendations to the CEO of PyBer.
 1.	Increase rides in rural areas using a marketing campaign or offering additional incentives to rural based clients.
 2. 	Add a nominal fee for trips under a certain amount of miles to offset the lower fares of urban based clients.
-3. 	Offer a ride sharing wherein a person could pay a decreased amount so long as he shares a ride with a stranger, this would increase the profitability per ride.
+3. 	Offer a ride sharing program wherein a person could pay a decreased amount so long as he shares a ride with a stranger, this would increase the profitability per ride.
 
 Pease refer to the Attached JupyterNotebook File:
 [PyBer_Challenge.ipynb](./Pyber_Challenge.ipynb)
