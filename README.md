@@ -8,9 +8,9 @@ Pyber, a transportation service, is seeking to learn which types of fares (subur
 
 In conclusion the rural routes offered the highest average profits per ride and per driver. However, those were the lowest overall rides and overall earnings. As can be expected, there are more than twelve times more rides offered in urban areas than rural and almost three times as many rides offered in urban areas than suburban. With this information one can infer that the bulk of the business is grouped in the type of business that offers the lowest average fares.
 
-![Summary_DF.png](./Analysis/Summary_DF.png)
+![Summary_DF.png](./analysis/Summary_DF.png)
 
-![Fare_Summary_Plot.png](./Analysis/Fare_Summary_Plot.png)
+![Fare_Summary_Plot.png](./analysis/Fare_Summary_Plot.png)
 
 ## Summary
 
